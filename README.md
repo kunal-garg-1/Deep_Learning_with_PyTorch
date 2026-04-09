@@ -1,4 +1,4 @@
-# PyTorch Neural Network Classification 🧠
+# Deep Learning with PyTorch  🧠
 
 This repository contains a comprehensive Google Collab Notebooks dedicated to understanding and implementing **Neural Network Classification** using PyTorch. 
 
